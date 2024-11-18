@@ -1,0 +1,19 @@
+new Mahasiswa("AgungBP", "Jakarta", 28, 'L', new String[] { "Musik", "Mancing" "Touring" }, 3.5f)
+		
+new Mahasiswa("Rulieta", "Kualakapuas", 17, 'P', new String[] { "Nari", "Rajut", "Jahit" }, 3.0f)
+
+new Mahasiswa("Karti", "Palangkaraya", 18, 'P', new String[] { "Renang", "FB-an", "Masak" }, 2.5f)
+
+new Mahasiswa("Hermon", "Banjarmasin", 25, 'L', new String[] { "Kasti", "Bola", "Mancing" }, 3.4f)
+
+new Mahasiswa("Anis", "Surakarta", 30, 'P', new String[] { "Jualan", "Drama", "Nonton" }, 0.3f)
+
+new Mahasiswa("Yanti", "Purwokerto", 21, 'P', new String[] { "Lukis", "Musik", "Selfie" }, 2.0f)
+
+new Mahasiswa("Handono", "Bekasi", 29, 'L', new String[] { "Touring", "Musik", "hiking" }, 3.1f)
+
+new Mahasiswa("Anton", "Jakarta", 17, 'L', new String[] { "Dangdut", "Jajan", "Touring" }, 2.0f)
+
+new Mahasiswa("Mantri", "Magelang", 45, 'L', new String[] { "HipHop", "Wayang", "Game" }, 3.1f)
+
+new Mahasiswa("Satrio", "Yogyakarta", 30, 'L', new String[] { "Musik", "Drama", "Karate" }, 3.3f)
